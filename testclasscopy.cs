@@ -2,7 +2,7 @@ using Xunit;
 
 namespace TheCSharpTests
 {
-public class testclass{
+public class testclasscopy{
 
     [Theory]
     [InlineData(3)]
