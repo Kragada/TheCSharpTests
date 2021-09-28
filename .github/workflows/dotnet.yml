@@ -11,7 +11,7 @@ jobs:
 
     runs-on: ${{ matrix.os }}
     strategy:
-     max-parallel: 1
+     max-parallel: 3
      matrix:
       os: [macos-latest, windows-latest, ubuntu-latest]
 
@@ -27,5 +27,4 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
-    - name: Super-Linter
-      uses: github/super-linter@v4.7.3
+
