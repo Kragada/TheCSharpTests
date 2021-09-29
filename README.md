@@ -1,1 +1,1 @@
-![](https://github.com/Kragada/TheCSharpTests/workflows/.Net/badge.svg)
+![](https://github.com/Kragada/TheCSharpTests/workflows/.NET/badge.svg)
