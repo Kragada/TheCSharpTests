@@ -24,7 +24,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
   
-  build:
+  release:
   
    name: Create Release
    if: github.event_name == 'pull_request'
