@@ -27,7 +27,7 @@ jobs:
   release:
   
    name: Create Release
-   if: github.event_name == 'pull_request'
+   if: github.event.ref == 'refs/heads/main'
    needs: [buildAndTest]
    runs-on: ubuntu-latest
    steps:
