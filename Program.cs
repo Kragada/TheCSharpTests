@@ -6,7 +6,7 @@ namespace TheCSharpTests
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World2");
             Console.WriteLine("Test");
 
             int yy = Add(4,5);
