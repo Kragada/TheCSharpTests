@@ -29,7 +29,7 @@ jobs:
   release:
     name: Create Release
     needs: buildAndTest
-    if: github.event_name == 'pull_request' && github.event.ref == 'refs/heads/Firstbranch'
+    if: github.event_name == 'pull_request' && github.event.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
