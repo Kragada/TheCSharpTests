@@ -31,3 +31,6 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: Development
+    steps:
+      - name: Deploy
+        run: echo I am deploying!
