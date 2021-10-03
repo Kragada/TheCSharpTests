@@ -14,7 +14,7 @@ public class testclass{
 
     [Fact]
     public void PassingAddTest(){
-        Assert.Equal(4, Program.Add(2,2));
+        Assert.Equal(8, Program.Add(4,4));
     }
     [Fact]
     public void FailingAddTest(){
