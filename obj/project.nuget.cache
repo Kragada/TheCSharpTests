@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUYQ8k3hgGtdo0CPXqbEbMsp1cHz+6HTVS5Ue+1OffVh51mVKVbkAXD0WtU12tIW1oBuZYeFo44RSvhGo0e0PA==",
+  "dgSpecHash": "SOVqDwVAw/yX/VKhQ9a4yXP3iQY17MEQdc6C/eNM2Ry+ece1ZyUG1y2TdLIEzOGRQqrnIVzSN1G1n7Fm9vlw6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rickard Hallberg\\Documents\\TheCSharpTests\\TheCSharpTests.csproj",
+  "projectFilePath": "c:\\Users\\Rickard Hallberg\\Documents\\TheCSharpTests\\TheCSharpTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rickard Hallberg\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\Rickard Hallberg\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
